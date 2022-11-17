@@ -107,13 +107,11 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>LeeSeungHye</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2001</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Korea</dd>
 </dl>
 
 ```
